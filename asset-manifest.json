@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Emoji-Search/static/css/main.340fb994.chunk.css",
+    "main.js": "/ReactJS-Emoji-Search/static/js/main.e2d8abac.chunk.js",
+    "main.js.map": "/ReactJS-Emoji-Search/static/js/main.e2d8abac.chunk.js.map",
+    "runtime-main.js": "/ReactJS-Emoji-Search/static/js/runtime-main.5a678fe3.js",
+    "runtime-main.js.map": "/ReactJS-Emoji-Search/static/js/runtime-main.5a678fe3.js.map",
+    "static/css/2.90da6880.chunk.css": "/ReactJS-Emoji-Search/static/css/2.90da6880.chunk.css",
+    "static/js/2.b81e05a8.chunk.js": "/ReactJS-Emoji-Search/static/js/2.b81e05a8.chunk.js",
+    "static/js/2.b81e05a8.chunk.js.map": "/ReactJS-Emoji-Search/static/js/2.b81e05a8.chunk.js.map",
+    "index.html": "/ReactJS-Emoji-Search/index.html",
+    "precache-manifest.ed53865b06fd8150583728dfa7e70c7d.js": "/ReactJS-Emoji-Search/precache-manifest.ed53865b06fd8150583728dfa7e70c7d.js",
+    "service-worker.js": "/ReactJS-Emoji-Search/service-worker.js",
+    "static/css/2.90da6880.chunk.css.map": "/ReactJS-Emoji-Search/static/css/2.90da6880.chunk.css.map",
+    "static/css/main.340fb994.chunk.css.map": "/ReactJS-Emoji-Search/static/css/main.340fb994.chunk.css.map",
+    "static/js/2.b81e05a8.chunk.js.LICENSE.txt": "/ReactJS-Emoji-Search/static/js/2.b81e05a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a678fe3.js",
+    "static/css/2.90da6880.chunk.css",
+    "static/js/2.b81e05a8.chunk.js",
+    "static/css/main.340fb994.chunk.css",
+    "static/js/main.e2d8abac.chunk.js"
+  ]
+}
