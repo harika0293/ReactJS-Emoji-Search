@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@0;1&family=Source+Serif+4:wght@400;600&family=Source+Serif+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@0;1&family=Source+Serif+4:wght@400;600&family=Source+Serif+Pro&display=swap');
+
+
+.component-emoji-result-row {
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+  height: 32px;
+  position: relative;
+
+  cursor: pointer;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.component-emoji-result-row:hover {
+  background-color: #eee;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.component-emoji-result-row img {
+  width: 32px;
+  height: 32px;
+  padding-right: 10px;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.component-emoji-result-row .title {
+  position: relative;
+  top: -8px;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.component-emoji-result-row .info {
+  float: right;
+  position: relative;
+  top: 8px;
+  right: 10px;
+  color: #ccc;
+  display: none;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.component-emoji-result-row:hover .info {
+  display: inline-block;
+  font-family: 'Libre Baskerville', serif;
+}
