@@ -1,18 +1,21 @@
-Emoji Search
----
+# React JS Application
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+A React Framework app
+
+## Install the dependencies
+```bash
+npm install
+npm install --save --legacy-peer-deps
+
+```
+
+### Start the app in development mode (hot-code reloading, error reporting, etc.)
+```bash
+npm start
+```
 
 
-
-Install
----
-
-`npm install`
-
-
-
-Usage
----
-
-`npm start`
+### Build the app for production
+```bash
+npm run build
+```
